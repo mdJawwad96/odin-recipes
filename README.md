@@ -1,0 +1,1 @@
+This is the project Recipe of The Odin Project.
