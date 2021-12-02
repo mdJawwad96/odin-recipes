@@ -5,10 +5,16 @@
     margin: 0;
 }
 
-.main-heading {
+.main-heading,
+header {
     text-align: center;
     padding: 1rem;
     background-color: black;
+    color: white;
+}
+
+.header-link {
+    text-decoration: none;
     color: white;
 }
 
